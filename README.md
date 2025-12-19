@@ -80,7 +80,7 @@ End-to-end e-commerce analytics solution with real-time KPI tracking and perform
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/indreshtiwari](https://linkedin.com/in/indreshtiwari)
-- **Email:** tiindresh@gmail.com
+- **Email:** indresh.tiwari.job@gmail.com
 - **Location:** Pune, India
 
 ---
