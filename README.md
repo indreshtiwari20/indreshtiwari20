@@ -7,7 +7,7 @@
 
 
 
-Advanced manipulation using Python Pandas/Polars to clean and structure messy datasets from banking, healthcare, and retail domains.
+Advanced manipulation using Powerbi , SQL to clean and structure messy datasets from banking, healthcare, and retail domains.
 
 
 
@@ -17,7 +17,7 @@ Advanced manipulation using Python Pandas/Polars to clean and structure messy da
 
 
 ### Data Modeling
-Designing Star & Snowflake schemas and optimized data warehouses for high-performance analytics.
+Designing Star schemas and optimized data warehouses for high-performance analytics.
 
 
 
