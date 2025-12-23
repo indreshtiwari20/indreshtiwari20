@@ -1,6 +1,6 @@
 # 🏥 Hospital Healthcare Management System – Power BI Project
 
-> **Role:** Power BI Developer
+> **Role:** Power BI Developer  
 > **Domain:** Healthcare Analytics  
 > **Tools:** Power BI, Azure SQL SDK, DAX, Power Query (M), JIRA  
 > **Duration:** Sept 2021 – June 2023
