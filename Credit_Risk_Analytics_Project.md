@@ -1,11 +1,17 @@
 # Credit Risk Analytics | Power BI & Snowflake
 
 
+
+
 > **Strategic Credit Risk Portfolio Management System for Tier-1 North American Bank**  
-> *Architected an end-to-end analytics ecosystem managing a **Multi-Billion Dollar ($10B+)** synthetic portfolio (Credit Cards & Personal Loans), reducing risk exposure and optimizing capital allocation.*
+> *Architected an end-to-end analytics ecosystem managing a **Multi-Billion Dollar ($5B+)** synthetic portfolio (Credit Cards & Personal Loans), reducing risk exposure and optimizing capital allocation.*
+
+
 
 
 ---
+
+
 
 
 ## 📌 Project Overview
@@ -14,7 +20,9 @@
 **Role:** Senior Data Analyst  
 **Duration:** Ongoing  
 **Tools:** Power BI, Snowflake, SQL, Alteryx, Excel, DAX  
-**Portfolio Scope:** **Multi-Billion Dollar ($10B+)** | **30,000+ Accounts** | Credit Cards (60%) & Personal Loans (40%)
+**Portfolio Scope:** **Multi-Billion Dollar ($5B+)** | **30,000+ Accounts** | Credit Cards (60%) & Personal Loans (40%)
+
+
 
 
 ## 💼 Business Problem
@@ -24,8 +32,12 @@ The bank required a unified view of its credit risk portfolio to address:
 *   **Risk Visibility:** Lack of granular visibility into "Time-to-Cure" and "Roll Rates" (delinquency progression) increased charge-off risks.
 
 
+
+
 ## 🛠️ Solution Architecture
 Designed and implemented a **Star Schema** data model in **Power BI** fed by a **Snowflake** data warehouse.
+
+
 
 
 1.  **Data Engineering (ETL):**
@@ -39,32 +51,14 @@ Designed and implemented a **Star Schema** data model in **Power BI** fed by a *
     *   Implemented **Delinquency Bucket Logic** (Current → X+1 → Charge-Off) using SQL window functions.
 
 
+
+
 ## 🚀 Key Features & Dashboards
 Delivered **20+ Production Dashboards** with 99.5% uptime:
+
+
 
 
 *   **Executive Risk View:** Top 10 KPIs, Portfolio Health Score, and Monthly Revenue Impact.
 *   **Origination Audit:** Analysis of Approval Rates, Processing Days, and Underwriter Performance.
 *   **Collection Scorecard:** Risk-adjusted collector performance tracking and "Priority Score" algorithms (Balance × Risk Weight × FICO).
-*   **Cohort Analysis:** Vintage performance analysis tracking delinquency curves by booking quarter.
-
-
-## 📉 Impact & Results
-*   **Multi-Million Dollar Revenue Opportunity**:** Identified capital reallocation opportunities through risk-weighted asset analysis.
-*   **Real-Time Agility:** Reduced reporting latency from **12 hours to 15 minutes** via automated refresh scheduling.
-*   **Risk Mitigation:** projected **30% default reduction** using the new Early Warning System (EWS) for at-risk accounts.
-*   **Operational Efficiency:** Automated compliance reporting (BCBS 239) and reduced manual ad-hoc query time by **80%**.
-
-
-## 💻 Tech Stack Details
-| Category | Technologies Used |
-| :--- | :--- |
-| **Visualization** | Power BI Desktop, Power BI Service |
-| **Data Warehouse** | Snowflake (Bronze/Silver/Gold Architecture) |
-| **ETL & Prep** | Alteryx, SQL, Advanced DAX |
-| **Languages** | SQL (Window Functions, CTEs), DAX (Time Intelligence, CALCULATE) |
-
-
----
-*Disclaimer: All data and figures presented in this case study are synthetic and industry-representative, strictly adhering to data confidentiality agreements. The numbers are derived from public statistical sources and do not address any specific institution's proprietary data.*
-
