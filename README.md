@@ -32,7 +32,7 @@ End-to-end e-commerce analytics solution with real-time KPI tracking and perform
   >
   > A comprehensive analytics suite optimizing patient flow and revenue cycle management.
   > *   **Impact:** Reduced billing bottlenecks by 15% and improved ER reporting efficiency.
-  > *   **Role:** Power BI Lead / Developer.
+  > * **Role:** Power BI Developer.
 
 ---
 
